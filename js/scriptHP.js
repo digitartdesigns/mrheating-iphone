@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "http://newsite.mrheating.com/?app";     
+var url = "http://mrheating.com/?app";     
 $(location).attr('href',url);
 });
